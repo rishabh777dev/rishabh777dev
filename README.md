@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Rishabh Dev Prasad 👋<br>A driven developer focused on building scalable, efficient, and impactful software solutions.<br><br>💡 Passionate about Software Engineering & AI<br>⚙️ Strong foundation in Data Structures & Algorithms<br>🚀 Building projects that solve real-world problems that actually impact<br>🎯 Focused on becoming a high-impact engineer<br>
+<br>Hi, I’m Rishabh Dev Prasad 👋<br>A driven developer focused on building scalable, efficient, and impactful software solutions.<br><br>💡 Passionate about building Software Engineering & AI nayive product which really matters<br>⚙️ Strong foundation in Data Structures & Algorithms<br>🚀 Building projects that solve real-world problems that actually impact<br>🎯 Focused on becoming a high-impact engineer<br>
 I have also leaded my team to the finals of the Smart India Hackathon 2024, where we worked on transforming the manual systems of the Delhi Transport Corporation into a digital and smarter ecosystem.
 
 
