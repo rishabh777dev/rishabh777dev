@@ -86,10 +86,10 @@ A driven developer focused on building scalable, efficient, and impactful softwa
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/rishabh-dev) *(Add your LinkedIn URL)*
+- 💼 [LinkedIn](https://linkedin.com/rishabh-dev-prasad) *
 - 🐙 [GitHub](https://github.com/rishabh777dev)
-- 📧 Email: *rishabh.dev@example.com* *(Add your email)*
-- 🌐 Portfolio: *Coming Soon* *(Add your portfolio URL)*
+- 📧 Email: *rishabhsingh7771@gmail.com* 
+- 🌐 Portfolio: https://rishabh-5aq.pages.dev
 
 ---
 
