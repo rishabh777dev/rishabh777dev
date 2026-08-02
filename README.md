@@ -2,8 +2,6 @@
 <img width="1882" height="1128" alt="image" src="https://github.com/user-attachments/assets/5f9bd3e2-d7ec-417f-918b-01aae5693809" />
 
 
-```
-```
 # 💫 About Me
 
 <br>
@@ -84,17 +82,17 @@ A driven developer focused on building scalable, efficient, and impactful softwa
 
 ![](https://github-readme-stats.shion.dev/api?username=rishabh777dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
-![](https://streak-stats.demolab.com/?user=rishabh777dev&theme=dark&hide_border=false)  
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishabh777dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rishabh777dev&theme=dark&hide_border=false)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/rishabh-dev-prasad) *
+- 💼 [LinkedIn](https://linkedin.com/in/rishabh-dev-prasad)
 - 🐙 [GitHub](https://github.com/rishabh777dev)
-- 📧 [Email](rishisingh7145@gmail.com)
+- 📧 [Email](mailto:rishisingh7145@gmail.com)
 - 🌐 [Portfolio](https://rishabh-5aq.pages.dev)
 
 ---
