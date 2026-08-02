@@ -52,6 +52,7 @@ A driven developer focused on building scalable, efficient, and impactful softwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
 </div>
 
 ### Databases & Data
@@ -60,6 +61,8 @@ A driven developer focused on building scalable, efficient, and impactful softwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
 </div>
 
@@ -67,6 +70,7 @@ A driven developer focused on building scalable, efficient, and impactful softwa
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3));">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: drop-shadow(0 8px 16px rgba(0,0,0,0.3)); filter: invert(1);">
 </div>
