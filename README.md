@@ -10,7 +10,7 @@ Hi, I'm **Rishabh Dev Prasad** 👋
 
 A driven developer focused on building scalable, efficient, and impactful software solutions.
 
-💡 Passionate about building Software Engineering & AI-driven products that really matters and solve the pain point 
+💡 Passionate about building Software Engineering & AI-driven products that really matters and solve the pain point
 ⚡ Strong foundation in Data Structures & Algorithms  
 🚀 Building projects that solve real-world problems with actual impact  
 🎯 Focused on becoming a high-impact engineer  
